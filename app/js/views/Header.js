@@ -38,7 +38,7 @@ var Header = Backbone.View.extend({
             <span class="icon-bar"></span>\
             <span class="icon-bar"></span>\
           </a>\
-          <a class="brand" onclick="alert(\'Drag me to the bookmarks bar!\'); return false;" href="{{bookmarkletCode}}">Yammer Conference Rooms</a>\
+          <a class="brand" onclick="alert(\'Drag me to the bookmarks bar!\'); return false;" href="{{bookmarkletCode}}">Yammer SVG Map</a>\
           <div class="nav-collapse collapse">\
             <div style="display: inline-block;" class="pull-right">\
               <form class="navbar-search pull-right">\
