@@ -20,7 +20,7 @@ var Header = Backbone.View.extend({
   },
 
   render: function() {
-    var bookmarkletCode = 'javascript:void((function(){yam.publish("/ui/lightbox/open", [{html: \'<iframe id="conferenceRoomView" src="http://localhost/hackday-conference-rooms/app/" style="width: 1200px; height: 800px;">\'}]);})());';
+    var bookmarkletCode = 'javascript:void((function(){yam.publish("/ui/lightbox/open", [{html: \'<iframe id="conferenceRoomView" src="http://chennney.github.com/yammer-svg-map/app/" style="width: 1200px; height: 800px;">\'}]);})());';
 
     this.$el.html( Mustache.render(this.template, {bookmarkletCode: bookmarkletCode}) );
 
