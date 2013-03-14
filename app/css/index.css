@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+}
+
+#container {
+  margin: 0 auto;
+  position: relative;
+  width: 1175px;
+  height: 800px;
+  overflow: hidden;
+}
+
+#controls {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#ConferenceRooms path {
+  fill: #FFF;
+}
+
+#ConferenceRooms path:hover, #People circle:hover {
+  fill: #4183C4;
+}
+
+.popover {
+  background-color: #333;
+}
+
+.popover.top .arrow {
+  border-top-color: #333;
+}
+
+.popover .popover-title {
+  background-color: #333;
+  font-weight: bold;
+  color: #FFF;
+  border-bottom: none;
+}
+
+.popover .popover-content {
+  display: none;
+}
