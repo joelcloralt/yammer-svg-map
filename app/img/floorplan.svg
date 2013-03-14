@@ -2730,19 +2730,19 @@
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1099.803" cy="838.328" r="10.515"/>
 			<circle data-name="Grace Chang" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1067.266" cy="819.739" r="10.515"/>
 			<circle data-name="Mike O'Neill" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1099.803" cy="802.715" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1050.639" cy="851.507" r="10.515"/>
+			<circle data-name="Chris Mohr" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1050.639" cy="851.507" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1081.49" cy="868.564" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1050.639" cy="886.556" r="10.515"/>
+			<circle data-name="Anjali Shenoy" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1050.639" cy="886.556" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1099.803" cy="900.946" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1067.266" cy="918.938" r="10.515"/>
+			<circle data-name="Gonzalo Maldonado" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1067.266" cy="918.938" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1099.803" cy="935.807" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1050.638" cy="1049.831" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1083.175" cy="1068.42" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1050.638" cy="1085.443" r="10.515"/>
+			<circle data-name="Justin Marney" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1050.638" cy="1049.831" r="10.515"/>
+			<circle data-name="Huy Nguyen" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1083.175" cy="1068.42" r="10.515"/>
+			<circle data-name="Kane Ren" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1050.638" cy="1085.443" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1099.802" cy="1036.651" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1068.95" cy="1019.595" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1099.802" cy="1001.603" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1050.638" cy="987.213" r="10.515"/>
+			<circle data-name="Sean Wolfe" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1050.638" cy="987.213" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1083.175" cy="969.221" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1050.638" cy="952.352" r="10.515"/>
 			<circle data-name="Anna Do" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="912.973" cy="1036.652" r="10.515"/>
@@ -2750,7 +2750,7 @@
 			<circle data-name="John Setzer" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="912.973" cy="1001.604" r="10.515"/>
 			<circle data-name="Ian Lin" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="962.137" cy="987.214" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="929.6" cy="969.222" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="962.137" cy="952.353" r="10.515"/>
+			<circle data-name="Andre Taylor" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="962.137" cy="952.353" r="10.515"/>
 			<circle data-name="Matthew Eernisse" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="912.973" cy="838.328" r="10.515"/>
 			<circle data-name="Chris Chen" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="945.51" cy="819.739" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="912.973" cy="802.715" r="10.515"/>
@@ -2765,13 +2765,13 @@
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="774.836" cy="1050.143" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="824" cy="1035.753" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="791.463" cy="1017.761" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="824" cy="1000.892" r="10.515"/>
+			<circle data-name="Geoff Moller" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="824" cy="1000.892" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="774.836" cy="886.867" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="807.373" cy="868.278" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="774.836" cy="851.254" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="824" cy="900.046" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="793.148" cy="917.103" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="824" cy="935.095" r="10.515"/>
+			<circle data-name="Paul Thurlow" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="824" cy="935.095" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="774.836" cy="949.485" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="807.373" cy="967.477" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="774.836" cy="984.346" r="10.515"/>
@@ -2840,12 +2840,12 @@
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="258.245" cy="1059.346" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="290.782" cy="1042.477" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="413.472" cy="489.129" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="376" cy="488.96" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="395.666" cy="519.971" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="377.485" cy="453.134" r="10.515"/>
+			<circle data-name="Laura Charteris" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="376" cy="488.96" r="10.515"/>
+			<circle data-name="Kevin Hunt" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="395.666" cy="519.971" r="10.515"/>
+			<circle data-name="Nikki Mehta" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="377.485" cy="453.134" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="412.732" cy="453.788" r="10.515"/>
 			<circle data-name="Haley Heneveld" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="395.009" cy="422.781" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="444.781" cy="434.901" r="10.515"/>
+			<circle data-name="Kateri Tyre" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="444.781" cy="434.901" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="425.599" cy="403.051" r="10.515"/>
 			<path fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M467.469,395.604
 				c5.03,2.903,6.752,9.335,3.85,14.363c-2.904,5.031-9.335,6.753-14.364,3.85c-5.029-2.903-6.752-9.335-3.849-14.364
@@ -2861,12 +2861,12 @@
 			<path fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M550.705,398.397
 				c5.028-2.903,11.459-1.181,14.363,3.848c2.904,5.029,1.18,11.461-3.849,14.364c-5.029,2.904-11.46,1.181-14.364-3.85
 				C543.952,407.733,545.675,401.301,550.705,398.397"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="474.687" cy="490.646" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="512.159" cy="490.476" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="492.493" cy="521.487" r="10.516"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="510.675" cy="454.65" r="10.516"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="475.428" cy="455.305" r="10.515"/>
-			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="493.15" cy="424.297" r="10.515"/>
+			<circle data-name="Derick Gapuz" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="474.687" cy="490.646" r="10.515"/>
+			<circle data-name="Jim VanNest" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="512.159" cy="490.476" r="10.515"/>
+			<circle data-name="Lenny Kim" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="492.493" cy="521.487" r="10.516"/>
+			<circle data-name="Joyce Hon" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="510.675" cy="454.65" r="10.516"/>
+			<circle data-name="Mike Ngo" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="475.428" cy="455.305" r="10.515"/>
+			<circle data-name="Kevin Mitchell" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="493.15" cy="424.297" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="665.983" cy="674.387" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="665.813" cy="636.915" r="10.515"/>
 			<circle fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="696.824" cy="656.581" r="10.516"/>
@@ -3166,6 +3166,9 @@
 			<circle data-name="Adam Pisoni" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="250.985" cy="418.724" r="10.515"/>
 			<circle data-name="Cody (dog)" fill="#FBA92C" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="975.566" cy="778.453" r="10.515"/>
 			<circle data-name="Bear (dog)" fill="#FBA92C" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="990.538" cy="805.394" r="10.515"/>
+			<circle data-name="Rex (dog)" fill="#FBA92C" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="230.802" cy="130.394" r="10.515"/>
+			<circle data-name="Sugar (dog)" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="540.675" cy="465.65" r="10.516"/>
+			<circle data-name="Minnie (dog)" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="895.973" cy="1055.652" r="10.515"/>
 			<circle data-name="Ares Kitty Tran (dog)" fill="#FBA92C" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1582.375" cy="1064.745" r="10.515"/>
 			<circle data-name="Butter Lal (dog)" fill="#FBA92C" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1795.3" cy="361.804" r="10.515"/>
 			<circle data-name="Samantha Dsilva" fill="#F4F196" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="1306.886" cy="215.936" r="10.515"/>
