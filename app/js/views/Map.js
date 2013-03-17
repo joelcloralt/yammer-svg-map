@@ -11,11 +11,11 @@ var Map = Backbone.View.extend({
 
   initialize: function() {
     // listen for global dispatched events
-    Backbone.Dispatcher.on('/search', _.bind(this.onSearch, this));
-    Backbone.Dispatcher.on('/search/cancel', _.bind(this.onSearchCancelled, this));
-    Backbone.Dispatcher.on('/zoom/recenter', _.bind(this.onZoomRecenter, this));
-    Backbone.Dispatcher.on('/zoom/in', _.bind(this.onZoomIn, this));
-    Backbone.Dispatcher.on('/zoom/out', _.bind(this.onZoomOut, this));
+    Backbone.on('/search',        _.bind(this.onSearch, this));
+    Backbone.on('/search/cancel', _.bind(this.onSearchCancelled, this));
+    Backbone.on('/zoom/recenter', _.bind(this.onZoomRecenter, this));
+    Backbone.on('/zoom/in',       _.bind(this.onZoomIn, this));
+    Backbone.on('/zoom/out',      _.bind(this.onZoomOut, this));
 
     this.zoom = d3.behavior.zoom()
       .scaleExtent([1, this.maxScale]);

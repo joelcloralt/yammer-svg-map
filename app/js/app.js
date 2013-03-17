@@ -1,8 +1,5 @@
 $(function() {
 
-  // add Dispatcher object to Backbone
-  Backbone.Dispatcher = _.extend({}, Backbone.Events);
- 
   // add the header to the page
   var header = new Header();
   header.render();
