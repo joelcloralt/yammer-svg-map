@@ -14,19 +14,19 @@ var Controls = Backbone.View.extend({
   onZoomRecenter: function(e) {
     e.preventDefault();
 
-    Backbone.Dispatcher.trigger('/zoom/recenter');
+    Backbone.trigger('/zoom/recenter');
   },
 
   onZoomIn: function(e) {
     e.preventDefault();
 
-    Backbone.Dispatcher.trigger('/zoom/in');
+    Backbone.trigger('/zoom/in');
   },
 
   onZoomOut: function(e) {
     e.preventDefault();
 
-    Backbone.Dispatcher.trigger('/zoom/out');
+    Backbone.trigger('/zoom/out');
   },
 
   render: function() {

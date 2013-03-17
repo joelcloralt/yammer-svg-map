@@ -12,11 +12,11 @@ var Header = Backbone.View.extend({
     if (e.keyCode == 27) {
       this.$searchInput.blur();
       this.$searchInput.val('');
-      Backbone.Dispatcher.trigger('/search/cancel');
+      Backbone.trigger('/search/cancel');
       return;
     }
 
-    Backbone.Dispatcher.trigger('/search', $.trim(this.$searchInput.val()));
+    Backbone.trigger('/search', $.trim(this.$searchInput.val()));
   },
 
   render: function() {
